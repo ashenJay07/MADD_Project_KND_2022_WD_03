@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo_width">235dp</dimen>
+    <dimen name="logo_height">300dp</dimen>
+    <dimen name="page_title_size">35sp</dimen>
+
+    <dimen name="login_txt_size">17sp</dimen>
+    <dimen name="login_btn_width">270dp</dimen>
+    <dimen name="login_btn_height">48dp</dimen>
+
+    <dimen name="input_padding">10dp</dimen>
+    <dimen name="input_draw_padding">10dp</dimen>
+
+</resources>
